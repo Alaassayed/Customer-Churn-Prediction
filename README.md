@@ -129,19 +129,14 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## Customer Churn Distribution
 
 <p align="center">
-<img src="<img width="1980" height="1499" alt="churn_distribution" src="https://github.com/user-attachments/assets/f771410d-1557-4885-a4c6-f1cd750e598f" />
-
-" width="700">
+  <img src="https://github.com/user-attachments/assets/f771410d-1557-4885-a4c6-f1cd750e598f" width="700"/>
 </p>
-
 ---
 
 ## Contract vs Churn
 
 <p align="center">
-<img src="<img width="1980" height="1499" alt="contract_vs_churn" src="https://github.com/user-attachments/assets/2c1b9329-5042-47f0-a3b3-874bd836500c" />
-
-" width="700">
+  <img src="https://github.com/user-attachments/assets/2c1b9329-5042-47f0-a3b3-874bd836500c" width="700"/>
 </p>
 
 ---
@@ -149,9 +144,7 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## Correlation Heatmap
 
 <p align="center">
-<img src="<img width="1980" height="1499" alt="heatmap" src="https://github.com/user-attachments/assets/6de6a291-4163-4f85-9c8d-38c7445ef7b1" />
-
-" width="700">
+  <img src="https://github.com/user-attachments/assets/6de6a291-4163-4f85-9c8d-38c7445ef7b1" width="700"/>
 </p>
 
 ---
@@ -159,8 +152,8 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## ROC Curve
 
 <p align="center">
-<img width="700">
-</p><img width="1980" height="1499" alt="ROCـCurve" src="https://github.com/user-attachments/assets/77be9986-f10d-410b-a268-27af48423a40" />
+  <img src="https://github.com/user-attachments/assets/77be9986-f10d-410b-a268-27af48423a40" width="700"/>
+</p>
 
 
 
@@ -169,9 +162,7 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## Feature Importance
 
 <p align="center">
-<img src=<img width="1980" height="1499" alt="Top ـ15 ـImportantـFeature" src="https://github.com/user-attachments/assets/43ea4d5b-43fb-452a-9eb0-375de7202edb" />
-
- width="700">
+  <img src="https://github.com/user-attachments/assets/43ea4d5b-43fb-452a-9eb0-375de7202edb" width="700"/>
 </p>
 
 ---
@@ -179,9 +170,7 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## SHAP Summary Plot
 
 <p align="center">
-<img src=<img width="1980" height="1499" alt="shapـsummary" src="https://github.com/user-attachments/assets/7a3b04e5-ef89-4a27-8ac2-9d9e5e5dce89" />
-
- width="700">
+  <img src="https://github.com/user-attachments/assets/7a3b04e5-ef89-4a27-8ac2-9d9e5e5dce89" width="700"/>
 </p>
 
 ---
