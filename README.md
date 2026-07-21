@@ -129,7 +129,7 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## Customer Churn Distribution
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f771410d-1557-4885-a4c6-f1cd750e598f" width="700"/>
+  <img src="" width="700"/>
 </p>
 ---
 
@@ -144,7 +144,7 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## Correlation Heatmap
 
 <p align="center">
-  <img src=""images/heatmap.png" width="700"/>
+  <img src="images/heatmap.png" width="700"/>
 </p>
 
 ---
