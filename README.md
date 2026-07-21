@@ -144,7 +144,7 @@ After comparing multiple Machine Learning algorithms, the Random Forest model ac
 ## Correlation Heatmap
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6de6a291-4163-4f85-9c8d-38c7445ef7b1" width="700"/>
+  <img src=""images/heatmap.png" width="700"/>
 </p>
 
 ---
